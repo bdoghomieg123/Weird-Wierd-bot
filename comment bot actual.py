@@ -17,7 +17,7 @@ while True:
 			if comment.id not in posts_replied_to:
 				if re.search("wierd", comment.body, re.IGNORECASE):
 					print("bot 1:\n\n")
-					comment.reply("Wierd' is actually spelled 'Weird'. That's a common mistake! \n \n \n ^(comment made by a bot. If the bot got it wrong, PM me)")
+					#comment.reply("Wierd' is actually spelled 'Weird'. That's a common mistake! \n \n \n ^(comment made by a bot. If the bot got it wrong, PM me)")
 					print(comment.id)
 					print(comment.author)
 					print('\n')
