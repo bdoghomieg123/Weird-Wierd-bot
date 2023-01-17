@@ -155,3 +155,7 @@ cython_debug/
 
 /praw.ini
 .vs/weird-wierd-bot/v17/.wsuo
+*.sqlite
+.vs/VSWorkspaceState.json
+.vs/weird-wierd-bot/FileContentIndex/261f12a8-4a3d-4a27-b2d5-96c6f79bd458.vsidx
+.vs/weird-wierd-bot/FileContentIndex/read.lock
